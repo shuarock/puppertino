@@ -1,6 +1,6 @@
 {
   "name": "puppertino",
-  "version": "1.2.1",
+  "version": "1.3.1",
   "description": "Hi! Welcome to **Puppertino!** Puppertino is a framework meant to mimic the look of **macOS** and follow the **human guidelines**.  Puppertino is a Framework created to be lightweight, modular and cool looking!",
   "main": "index.js",
   "directories": {
